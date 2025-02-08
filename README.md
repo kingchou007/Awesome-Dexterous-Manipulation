@@ -44,7 +44,7 @@ To include your papers, please submit a new issue or pull request with the title
 - [RAL] Q. Wu, H. Wang, J. Zhou, X. Xiong and Y. Lou. (2025) "TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation" - [Paper](https://ieeexplore.ieee.org/abstract/document/10766612)
 
 ## Cool Idea
-
+* [SIGGRAPH 2024] Wang, Ruocheng, et al. "FürElise: Capturing and Physically Synthesizing Hand Motion of Piano Performance." SIGGRAPH Asia 2024 Conference Papers. 2024.
 * [CoRL 2023] Zakka, K., Wu, P., Smith, L., Gileadi, N., Howell, T., Peng, X. B., ... & Abbeel, P. (2023). Robopianist: Dexterous piano playing with deep reinforcement learning.  *-* [arXiv](https://arxiv.org/abs/2304.04150), [Code](https://kzakka.com/robopianist/), [Website](https://github.com/google-research/robopianist)
 
 ## Products
