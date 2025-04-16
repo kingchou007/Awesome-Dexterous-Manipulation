@@ -8,9 +8,10 @@ To include your papers, please submit a new issue or pull request with the title
   - [Content](#content)
   - [Teleoperation](#teleoperation)
   - [Learning From Video](#learning-from-video)
-  - [Sim2Real](#sim2real)
+  - [Sim2Real / Co-Train](#sim2real--co-train)
   - [Hardware](#hardware)
-  - [Tactile](#tactile)
+  - [Tactile Dexterous Manipulation](#tactile-dexterous-manipulation)
+  - [VLM / VLA](#vlm--vla)
   - [Cool Idea](#cool-idea)
   - [Products](#products)
 
@@ -44,8 +45,13 @@ To include your papers, please submit a new issue or pull request with the title
 
 ## Tactile Dexterous Manipulation
 
+- [ICRA 2021] Dong, S., Jha, D. K., Romeres, D., Kim, S., Nikovski, D., & Rodriguez, A. (2021, May). Tactile-rl for insertion: Generalization to objects of unknown geometry. - [arXiv](https://arxiv.org/pdf/2104.01167)
 - [RAL] Q. Wu, H. Wang, J. Zhou, X. Xiong and Y. Lou. (2025) "TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation" - [Paper](https://ieeexplore.ieee.org/abstract/document/10766612)
 - [ICRA 2025] Wu, T., Li, J., Zhang, J., Wu, M., & Dong, H. (2024). Canonical representation and force-based pretraining of 3d tactile for dexterous visuo-tactile policy learning.  - [arXiv](https://arxiv.org/abs/2409.17549)
+
+
+## VLM / VLA
+* [2024]Kim, M. J., Pertsch, K., Karamcheti, S., Xiao, T., Balakrishna, A., Nair, S., ... & Finn, C. (2024). Openvla: An open-source vision-language-action model. - [arXiv](https://arxiv.org/abs/2406.09246), [website](https://openvla.github.io/)
 
 ## Cool Idea
 
