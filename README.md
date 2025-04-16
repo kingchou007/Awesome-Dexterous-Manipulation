@@ -7,6 +7,7 @@ To include your papers, please submit a new issue or pull request with the title
 - [Awesome-Dexterous-Manipulation  ](#awesome-dexterous-manipulation--)
   - [Content](#content)
   - [Teleoperation](#teleoperation)
+  - [Reinforcement Learning for Dexterous Manipulation](#reinforcement-learning-for-dexterous-manipulation)
   - [Learning From Video](#learning-from-video)
   - [Sim2Real / Co-Train](#sim2real--co-train)
   - [Hardware](#hardware)
@@ -21,6 +22,9 @@ To include your papers, please submit a new issue or pull request with the title
 * [RSS 2023] Qin, Y., Yang, W., Huang, B., Van Wyk, K., Su, H., Wang, X., ... & Fox, D. (2023). Anyteleop: A general vision-based dexterous robot arm-hand teleoperation system. - [arXiv](https://arxiv.org/abs/2307.04577), [Website](https://yzqin.github.io/anyteleop/)
 * [ICRA 2023] Arunachalam, S. P., Güzey, I., Chintala, S., & Pinto, L. (2023, May). Holo-dex: Teaching dexterity with immersive mixed reality. - [arXiv](https://arxiv.org/abs/2210.06463), [Website](https://holo-dex.github.io/)
 * [ICRA 2020] Handa, A., Van Wyk, K., Yang, W., Liang, J., Chao, Y. W., Wan, Q., ... & Fox, D. (2020, May). Dexpilot: Vision-based teleoperation of dexterous robotic hand-arm system. - [arXiv](https://arxiv.org/abs/1910.03135), [Website](https://sites.google.com/view/dex-pilot)
+
+## Reinforcement Learning for Dexterous Manipulation
+- [ICRA 2025] Ankile, L., Simeonov, A., Shenfeld, I., Torne, M., & Agrawal, P. (2024). From Imitation to Refinement--Residual RL for Precise Assembly. - [arXiv](https://arxiv.org/abs/2407.16677)
 
 ## Learning From Video
 
