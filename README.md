@@ -32,7 +32,7 @@ To include your papers, please submit a new issue or pull request with the title
 * [IROS 2023] Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments - [arXiv](https://arxiv.org/abs/2301.04195), [Website](https://isaac-orbit.github.io/)
 * [Science Robotics 2023] Chen, T., Tippur, M., Wu, S., Kumar, V., Adelson, E., & Agrawal, P. (2023). Visual dexterity: In-hand reorientation of novel and complex object shapes.  - [paper](https://arxiv.org/abs/2211.11744)
 * [RSS 2025] Maddukuri, A., Jiang, Z., Chen, L. Y., Nasiriany, S., Xie, Y., Fang, Y., ... & Zhu, Y. (2025). Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation.  - [arXiv](https://co-training.github.io/resources/paper.pdf), [website](https://co-training.github.io/)
-* Lin, T., Sachdev, K., Fan, L., Malik, J., & Zhu, Y. (2025). Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids. - [arXiv](Lin, T., Sachdev, K., Fan, L., Malik, J., & Zhu, Y. (2025). Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids. arXiv preprint arXiv:2502.20396.)
+* Lin, T., Sachdev, K., Fan, L., Malik, J., & Zhu, Y. (2025). Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids. - [arXiv](https://arxiv.org/abs/2502.20396)
 
 ## Hardware
 
