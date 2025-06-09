@@ -30,6 +30,7 @@ To include your papers, please submit a new issue or pull request with the title
 
 * [arXiv] Kareer, S., Patel, D., Punamiya, R., Mathur, P., Cheng, S., Wang, C., ... & Xu, D. (2024). Egomimic: Scaling imitation learning via egocentric video. - [arXiv](https://arxiv.org/abs/2410.24221), [Website](https://egomimic.github.io/)
 * [CoRL 2022] Shaw, K., Bahl, S., & Pathak, D. (2023, March). Videodex: Learning dexterity from internet videos. - [arXiv](https://arxiv.org/abs/2212.04498), [Website](https://video-dex.github.io)
+* [arXiv] Qiu, R. Z., Yang, S., Cheng, X., Chawla, C., Li, J., He, T., ... & Wang, X. (2025). Humanoid Policy~ Human Policy. - [arXiv](https://arxiv.org/abs/2503.13441), [Website](https://human-as-robot.github.io/)
 
 ## Sim2Real / Co-Train
 
@@ -38,6 +39,7 @@ To include your papers, please submit a new issue or pull request with the title
 * [Science Robotics 2023] Chen, T., Tippur, M., Wu, S., Kumar, V., Adelson, E., & Agrawal, P. (2023). Visual dexterity: In-hand reorientation of novel and complex object shapes.  - [paper](https://arxiv.org/abs/2211.11744)
 * [RSS 2025] Maddukuri, A., Jiang, Z., Chen, L. Y., Nasiriany, S., Xie, Y., Fang, Y., ... & Zhu, Y. (2025). Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation.  - [arXiv](https://co-training.github.io/resources/paper.pdf), [website](https://co-training.github.io/)
 * Lin, T., Sachdev, K., Fan, L., Malik, J., & Zhu, Y. (2025). Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids. - [arXiv](https://arxiv.org/abs/2502.20396)
+
 
 ## Hardware
 
@@ -52,6 +54,7 @@ To include your papers, please submit a new issue or pull request with the title
 - [ICRA 2021] Dong, S., Jha, D. K., Romeres, D., Kim, S., Nikovski, D., & Rodriguez, A. (2021, May). Tactile-rl for insertion: Generalization to objects of unknown geometry. - [arXiv](https://arxiv.org/pdf/2104.01167)
 - [RAL] Q. Wu, H. Wang, J. Zhou, X. Xiong and Y. Lou. (2025) "TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation" - [Paper](https://ieeexplore.ieee.org/abstract/document/10766612)
 - [ICRA 2025] Wu, T., Li, J., Zhang, J., Wu, M., & Dong, H. (2024). Canonical representation and force-based pretraining of 3d tactile for dexterous visuo-tactile policy learning.  - [arXiv](https://arxiv.org/abs/2409.17549)
+- [arXiv] Li, J., Wu, T., Zhang, J., Chen, Z., Jin, H., Wu, M., ... & Dong, H. (2025). Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation. - [arXiv](https://arxiv.org/abs/2505.13982), [Website](https://adaptac-dex.github.io/)
 
 
 ## VLM / VLA
